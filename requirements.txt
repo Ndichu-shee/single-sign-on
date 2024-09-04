@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.1
+sqlparse==0.5.1
+authlib ~= 1.0
+python-dotenv ~= 0.19
+requests ~= 2.27
+djangorestframework==3.15.2
